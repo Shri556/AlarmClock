@@ -1,7 +1,6 @@
 import time
 import datetime
 import re
-import beepy
 from beepy.make_sound import beep
 
 
